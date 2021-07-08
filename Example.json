@@ -1,0 +1,4 @@
+{
+"FirstThing" : {"ValA" : "Value A", "ValB" : "Value B"},
+"SecondThing" : {"ValA" : "Another Value A", "ValB" : "Another Value B"}
+}
